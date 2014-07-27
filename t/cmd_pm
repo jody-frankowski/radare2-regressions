@@ -4,7 +4,7 @@
 
 
 NAME='pm hello.c'
-FILE=../b/files/src/hello.c
+FILE=../binaries/src/hello.c
 CMDS='
 pm
 '
